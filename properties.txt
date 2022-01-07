@@ -1,0 +1,3 @@
+user=eso5
+password=Phahm7ae
+dburl=jdbc:mysql://localhost:3307/eso5
