@@ -1,0 +1,23 @@
+(1) Home test Self-reporting page
+	Form
+		Email
+		Full name
+		Age
+		Gender
+		Address
+		Postcode
+		TTN Code
+		Test result
+		
+	Validation
+		-TTN code does not match record in database
+		-Another person has already provided TTN code
+		-The provided email is already associated with another Home Test Kit
+		-Invalid username or password (for Admin)
+	TTN Verification
+
+(2) Log in/sign-out feature for Admin
+		-login form
+		-Sign out button
+
+
